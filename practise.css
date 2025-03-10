@@ -1,0 +1,38 @@
+li{
+    text-decoration: none;
+    list-style: none;
+    display:flex;
+    
+}
+a{
+    font-family: fantasy;
+    color:brown;
+    text-decoration: none;
+    
+}
+nav{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.end{
+    
+    justify-content: end;
+    align-items: end;
+    gap:20px;
+}
+.start{
+    display:flex;
+    justify-content: end;
+    align-items: end;
+}
+.card{
+    background-color: blue;
+    height:300px;
+    width:300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

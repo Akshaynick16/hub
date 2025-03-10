@@ -1,0 +1,133 @@
+.continer{
+    border: 2px;
+    border-style: double;
+    border-color: black;
+    background-color: whitesmoke;
+    width: 1500px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+}
+.item1{
+    width: 350px;
+    height: 115px;
+    border: 0px;
+    background-color: rgba(255, 87, 34, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+    
+
+}
+.item2{
+    width: 350px;
+    height: 115px;
+    border: 2px;
+    background-color: rgba(76,175,80,255);
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20PX;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.item3{
+    width: 350px;
+    height: 115px;
+    border: 0px;
+    background-color: rgba(255, 87, 34, 255);
+    display: flex;
+    margin-left:20px;
+    margin-top: 20PX;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.item4{
+    width: 350px;
+    height: 115px;
+    border: 0px;
+    background-color: rgba(76,175,80,255);
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20PX;
+    align-items: center;
+    justify-content: center;
+}
+.item5{
+    width: 350px;
+    height: 115px;
+    border: 0px;
+    background-color: rgba(255, 87, 34, 255);
+    display: flex;
+    margin-left:20px;
+    margin-top: 10PX; 
+    align-items: center;
+    justify-content: center;
+}
+.item6{
+    width: 350px;
+    height: 115px;
+    border: 0px;
+    background-color: rgba(76,175,80,255);
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10PX;
+    align-items: center;
+    justify-content: center;
+}
+.item7{
+    width: 350px;
+    height: 115px;
+    border: 0px;
+    background-color: rgba(255, 87, 34, 255);
+    display: flex;
+    margin-left:20px;
+    margin-top: 10PX; 
+    align-items: center;
+    justify-content: center;
+}
+.item8{
+    width: 350px;
+    height: 115px;
+    border: 0px;
+    background-color: rgba(76,175,80,255);
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10PX;
+    align-items: center;
+    justify-content: ;
+}
+p{
+    color: whitesmoke;
+}
+.bar{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+ul{
+    display: flex;
+    gap:20px;
+    list-style: none;
+
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    border-radius: 50%;
+    display: flex;
+   
+}
+a{
+    text-decoration: none;
+}

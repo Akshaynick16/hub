@@ -1,0 +1,58 @@
+.tas1{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+
+.tas3{
+    display:flex;
+    gap:10px;
+}
+
+li{
+    text-decoration: none;
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+button{
+    text-decoration: none;
+    color: aliceblue;
+}
+.grid text-center{
+    display:flex;
+}
+a{
+    color:brown
+}
+.container {
+    display: grid;
+    background-color: bisque;
+    border:2px;
+    border-color: blueviolet;
+    border-style: solid;
+    margin-top: 80px;
+    position: fixed;
+}
+img{
+    height:200px;
+    width:200px;
+}
+
+.radio{
+    margin-top: 20px;
+}
+.col1{
+
+    @media  screen and (min-width: 480px){
+    body{
+       background-color: brown; 
+    }
+}
+}
+
